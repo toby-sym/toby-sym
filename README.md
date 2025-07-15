@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Toby Symons
 
-<center>![Profile Views](https://komarev.com/ghpvc/?username=toby-sym&color=blue)</center>
+![Profile Views](https://komarev.com/ghpvc/?username=toby-sym&color=blue)
 
 Welcome to my GitHub! I'm a software engineer passionate about building clean, efficient, and scalable applications. Here you’ll find projects that showcase my skills in Java, web development, and databases.
 
