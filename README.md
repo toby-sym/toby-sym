@@ -1,15 +1,15 @@
-# 👋 Hi there, I'm Toby Symons
+# 👋 Hi, I'm Toby Symons
 
 ![Profile Views](https://komarev.com/ghpvc/?username=toby-sym&color=blue)
 
-Welcome to my GitHub! I'm a software engineer passionate about building clean, efficient, and scalable applications. Here you’ll find projects that showcase my skills in Java, web development, and databases.
+Welcome to my GitHub! I'm a software engineer passionate about building clean, efficient, and scalable applications. Here you’ll find projects showcasing my skills in Java, web development, game development, and databases.
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Java, JavaScript, SQL  
-- **Frameworks:** Javalin, Express.js, Node.js  
-- **Databases:** SQLite, MySQL  
-- **Tools:** Maven, Git, REST-assured  
+- **Languages:** Java, JavaScript, TypeScript, SQL, C#  
+- **Frameworks & Libraries:** Javalin, Express.js, Node.js, Unity (2D game development), React (basic), JUnit, Mockito, REST-assured  
+- **Databases:** SQLite, MySQL, PostgreSQL  
+- **Tools & Others:** Maven, Git, Docker, DBeaver, Visual Studio Code, IntelliJ IDEA  
 
 ## 🚀 Selected Projects
 
@@ -19,9 +19,12 @@ A RESTful Java web API exposing movie and rating data from a SQLite database, bu
 ### [Student Societies Database](https://github.com/toby-sym/Student-Societies-Database)  
 A full-stack web application managing university courses, students, societies, and sessions, with a MySQL backend and Node.js/Express web interface.
 
+### Unity Projects  
+Procedural generation and AI projects built with Unity, focusing on 2D pixel art and technical learning.
+
 Feel free to explore these repositories and reach out if you have any questions!
 
 ## 📫 Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/toby-symons/)  
-- [Email](mailto:toby@example.com)
+- [LinkedIn](https://www.linkedin.com/in/toby-symons-83961a303/)  
+- [Email](mailto:toby.symons5@gmail.com)
