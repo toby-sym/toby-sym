@@ -11,16 +11,13 @@ Welcome to my GitHub! I'm a software engineer passionate about building clean, e
 - **Databases:** SQLite, MySQL, PostgreSQL  
 - **Tools & Others:** Maven, Git, Docker, DBeaver, Visual Studio Code, IntelliJ IDEA  
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
 ### [FlickFinder](https://github.com/toby-sym/FlickFinder-App)  
 A RESTful Java web API exposing movie and rating data from a SQLite database, built with Javalin and tested using JUnit and Mockito.
 
 ### [Student Societies Database](https://github.com/toby-sym/Student-Societies-Database)  
 A full-stack web application managing university courses, students, societies, and sessions, with a MySQL backend and Node.js/Express web interface.
-
-### Unity Projects  
-Procedural generation and AI projects built with Unity, focusing on 2D pixel art and technical learning.
 
 Feel free to explore these repositories and reach out if you have any questions!
 
