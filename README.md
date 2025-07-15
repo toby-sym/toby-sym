@@ -15,16 +15,6 @@ Check out my personal portfolio for a deeper look at my work, skills, and projec
 - **Databases:** SQLite, MySQL, PostgreSQL  
 - **Tools & Others:** Maven, Git, Docker, DBeaver, Visual Studio Code, IntelliJ IDEA  
 
-## 🚀 Featured Projects
-
-### [FlickFinder](https://github.com/toby-sym/FlickFinder-App)  
-A RESTful Java web API exposing movie and rating data from a SQLite database, built with Javalin and tested using JUnit and Mockito.
-
-### [Student Societies Database](https://github.com/toby-sym/Student-Societies-Database)  
-A full-stack web application managing university courses, students, societies, and sessions, with a MySQL backend and Node.js/Express web interface.
-
-Feel free to explore these repositories and reach out if you have any questions!
-
 ## 📫 Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/toby-symons-83961a303/)  
