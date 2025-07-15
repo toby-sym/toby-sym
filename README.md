@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Toby Symons
 
-![Profile Views](https://komarev.com/ghpvc/?username=toby-sym&color=blue) ![Followers](https://img.shields.io/github/followers/toby-sym?style=social) ![Stars](https://img.shields.io/github/stars/toby-sym?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=toby-sym&color=blue)
 
 Welcome to my GitHub profile! I'm a passionate software engineer with a focus on building efficient and scalable applications. Explore my repositories to see the projects I've been working on.
 
