@@ -1,32 +1,27 @@
 # 👋 Hi there, I'm Toby Symons
 
-![Profile Views](https://komarev.com/ghpvc/?username=toby-sym&color=blue)
+<center>![Profile Views](https://komarev.com/ghpvc/?username=toby-sym&color=blue)</center>
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a focus on building efficient and scalable applications. Explore my repositories to see the projects I've been working on.
+Welcome to my GitHub! I'm a software engineer passionate about building clean, efficient, and scalable applications. Here you’ll find projects that showcase my skills in Java, web development, and databases.
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Java, JavaScript, TypeScript, SQL
-- **Frameworks & Libraries:** Javalin, Express.js, React, Node.js
-- **Databases:** SQLite, MySQL, PostgreSQL
-- **Tools:** Git, Docker, Maven, Jest, REST-assured
+- **Languages:** Java, JavaScript, SQL  
+- **Frameworks:** Javalin, Express.js, Node.js  
+- **Databases:** SQLite, MySQL  
+- **Tools:** Maven, Git, REST-assured  
 
-## 🚀 Featured Projects
+## 🚀 Selected Projects
 
-### [FlickFinder](https://github.com/toby-sym/FlickFinder-App)
-A RESTful Java web application that exposes movie, person, and rating data from a SQLite database via a clean API, built with Javalin and tested using JUnit, Mockito, and REST-assured.
+### [FlickFinder](https://github.com/toby-sym/FlickFinder-App)  
+A RESTful Java web API exposing movie and rating data from a SQLite database, built with Javalin and tested using JUnit and Mockito.
 
-### [Student Societies Database](https://github.com/toby-sym/Student-Societies-Database)
-A full-stack web application that models and manages university entities—courses, students, hobbies, societies, sessions, and participations—using a relational database backend and web interface.
+### [Student Societies Database](https://github.com/toby-sym/Student-Societies-Database)  
+A full-stack web application managing university courses, students, societies, and sessions, with a MySQL backend and Node.js/Express web interface.
 
-## 📈 GitHub Stats
+Feel free to explore these repositories and reach out if you have any questions!
 
-![Toby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=toby-sym&show_icons=true&hide_title=true&count_private=true&hide=prs)
+## 📫 Contact Me
 
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/toby-symons/)
-- [Twitter](https://twitter.com/toby_symons)
+- [LinkedIn](https://www.linkedin.com/in/toby-symons/)  
 - [Email](mailto:toby@example.com)
-
-Feel free to reach out if you have any questions or want to discuss technology, development, or anything else!
